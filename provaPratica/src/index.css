@@ -1,0 +1,15 @@
+header {
+  background-color: #5697d8; 
+  padding: 20px; 
+  text-align: center;
+  border: 2px solid #0a0a0a;
+  box-shadow: 0 4px 2px -2px rgb(75, 69, 69); 
+  border-radius: 5px;
+}
+
+header h1.cabecalho {
+  font-family: 'Arial', sans-serif; 
+  color: #c3ce29;
+  margin: 0; 
+  font-size: 2.5em; 
+}
